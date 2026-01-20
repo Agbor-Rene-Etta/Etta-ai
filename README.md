@@ -1,5 +1,3 @@
-# Etta-ai
-Etta ai is a dictionary used in searching words. To use, just input the word that you need the meaning 
 <!DOCTYPE html>
 <html lang="en">
 <head>
